@@ -1,3 +1,14 @@
+---
+title: "2018， 拾个人"
+subtitle: "圈子是那样小之又小，而人却有来有往"
+layout: post
+author: "Yunlai"
+header-style: text
+tags:
+  - 2018周记
+---
+
+
 ```
 ···好想变成雪啊，这样就可以落在先生的肩上了……
 --若是先生撑了伞呢？
